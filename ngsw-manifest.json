@@ -1,18 +1,18 @@
 {
   "static": {
     "urls": {
-      "/main.d57428e9cc0d86c3a60e.bundle.js": "bf71c1de4a0b791c817da8c8252c186a965cc786",
-      "/polyfills.6c27240b97c3a39e5eee.bundle.js": "cf61dda225880c1d3288b81696957e238cf9db54",
+      "/main.ee5c462ad386df1f26b8.bundle.js": "4bea1bc9b6a9fbf8071b1b5141a9439dbdaf642e",
+      "/polyfills.6c27240b97c3a39e5eee.bundle.js": "e3bdadb1cba3de4a27a5510c8fc6a8a637338c88",
       "/sw-register.86a9be57c2122660cda4.bundle.js": "d307df289a81139d2ff9e0ff9dc83af9b5f71b9d",
-      "/vendor.7b2bfdf246862937d66c.bundle.js": "44e64b1af88991cc88316fd018039c31f0559ec6",
-      "/inline.56c826a099bef254f5b1.bundle.js": "02ce3da4dac924bccd616a4a013816bae8911588",
-      "/styles.51442149c7b68366ed71.bundle.css": "0095e63f4cd31941c5e93d326f59630d1ebe2147",
-      "/assets/.DS_Store": "80176ece53fbffb81abb7c787b1c4db601dae774",
+      "/vendor.1489fc318c7c5df7df5f.bundle.js": "3e18eb9aaa521ee8a0a4d667b1376013d9c11215",
+      "/inline.ba3b5327e1d54a939ad1.bundle.js": "4c5ec700e66e2e4a18350a41a67be3d302bde365",
+      "/styles.da633e2eebd3fcd7670e.bundle.css": "b7681e17c559dada4771514c0d7bb55aa5c66f26",
+      "/assets/.DS_Store": "42c6b586c3f22d0ec88ac9fef8521de18e661e38",
+      "/assets/autofix.svg": "b7a5566fadc67d568c4117df159e8e03360d0add",
       "/assets/addpaths.svg": "d959318526bd5ef384d9b4eb23a32fce97471b6d",
       "/assets/demoicon.svg": "31f63ed6f0cb1d9f926b878c80b662bb80647c8c",
-      "/assets/autofix.svg": "b7a5566fadc67d568c4117df159e8e03360d0add",
-      "/assets/penaddcursorsmall.png": "8020d60b4c8dd263be90a5c5b13b9407a49b7547",
       "/assets/pauseplay-white.png": "5ed13c9ed6311546e3613304774faa7e73fee8cc",
+      "/assets/penaddcursorsmall.png": "8020d60b4c8dd263be90a5c5b13b9407a49b7547",
       "/assets/playpause-white.png": "258952f29f3f00ccf8feca2c63787b3ea38d91bb",
       "/assets/reverse.svg": "54cc7d9b3261c4fc7fed59b8c97b029fbbf8e69f",
       "/assets/screencap.jpg": "1f6ebb2bbfd14cf48dcad7d3129ce2ca20c2f1f4",
@@ -21,7 +21,7 @@
       "/assets/shapeshifter.svg": "09e98b8f6e829fb2f22760034fb0f62b4ce42d3c",
       "/manifest.json": "4b07af60f942acaaa9b5590ce086e2dd33372f77",
       "/favicon.ico": "f4aad42c3b43d219090aeada1135a6a4cecd7e38",
-      "/index.html": "6464928620520ae152b46bd3e0d55204baaf5ade"
+      "/index.html": "3ecdec76c75a44ffcbe7bded4ca10fa4e2d25187"
     },
     "_generatedFromWebpack": true
   }
