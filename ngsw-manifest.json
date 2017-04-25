@@ -1,11 +1,11 @@
 {
   "static": {
     "urls": {
-      "/main.ee5c462ad386df1f26b8.bundle.js": "4bea1bc9b6a9fbf8071b1b5141a9439dbdaf642e",
+      "/main.622987454aa7b713c965.bundle.js": "737caac9af3782a61a083ad645de2110f8c36d9f",
       "/polyfills.6c27240b97c3a39e5eee.bundle.js": "e3bdadb1cba3de4a27a5510c8fc6a8a637338c88",
       "/sw-register.86a9be57c2122660cda4.bundle.js": "d307df289a81139d2ff9e0ff9dc83af9b5f71b9d",
       "/vendor.1489fc318c7c5df7df5f.bundle.js": "3e18eb9aaa521ee8a0a4d667b1376013d9c11215",
-      "/inline.ba3b5327e1d54a939ad1.bundle.js": "4c5ec700e66e2e4a18350a41a67be3d302bde365",
+      "/inline.365a7993f3b584bacc8e.bundle.js": "7e787b493f029bed4fdb0eec61ff7739e43566e2",
       "/styles.da633e2eebd3fcd7670e.bundle.css": "b7681e17c559dada4771514c0d7bb55aa5c66f26",
       "/assets/.DS_Store": "42c6b586c3f22d0ec88ac9fef8521de18e661e38",
       "/assets/addpaths.svg": "d959318526bd5ef384d9b4eb23a32fce97471b6d",
@@ -18,10 +18,10 @@
       "/assets/screencap.jpg": "1f6ebb2bbfd14cf48dcad7d3129ce2ca20c2f1f4",
       "/assets/selectioncursor.svg": "2e37d6e4181b8d517d31d4c99e3df7c00027c152",
       "/assets/shapeshifter.png": "6cd25dfd1dbd8d91c41635451e37678de24adee8",
+      "/assets/shapeshifter.svg": "09e98b8f6e829fb2f22760034fb0f62b4ce42d3c",
       "/manifest.json": "4b07af60f942acaaa9b5590ce086e2dd33372f77",
       "/favicon.ico": "f4aad42c3b43d219090aeada1135a6a4cecd7e38",
-      "/assets/shapeshifter.svg": "09e98b8f6e829fb2f22760034fb0f62b4ce42d3c",
-      "/index.html": "3ecdec76c75a44ffcbe7bded4ca10fa4e2d25187"
+      "/index.html": "57db274df48614d967126ed669976ff552419254"
     },
     "_generatedFromWebpack": true
   }
