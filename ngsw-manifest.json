@@ -1,16 +1,16 @@
 {
   "static": {
     "urls": {
-      "/main.a8201e7189b38d9c6b1b.bundle.js": "e7387a48d21b454238accf0646b14751b104185e",
+      "/main.0651f4499d5be1cdc49a.bundle.js": "49b51123f2bb4c494d9bff1e7e8f06e4469ef310",
       "/polyfills.58c11a9f4432a48b2e3b.bundle.js": "d0432f71ed79d59f649c1e891ea468aeb54a12a1",
       "/sw-register.86a9be57c2122660cda4.bundle.js": "d307df289a81139d2ff9e0ff9dc83af9b5f71b9d",
-      "/vendor.42f32a9c7677f201897c.bundle.js": "1bcb2a5995b0402aa5ae6c116e817495afdc08e7",
-      "/inline.bc20f5601bea6ad72c08.bundle.js": "ab3f7ec572d90b4ebb2531afefbd41c7e667c7ac",
+      "/vendor.6a1f4588e8fa1c5e81d1.bundle.js": "1bcb2a5995b0402aa5ae6c116e817495afdc08e7",
+      "/inline.fdbb2907d525eecce11c.bundle.js": "5fd78e64675cc62da6b65dbeb6e7e2fa36c48144",
       "/styles.da633e2eebd3fcd7670e.bundle.css": "b7681e17c559dada4771514c0d7bb55aa5c66f26",
       "/assets/.DS_Store": "42c6b586c3f22d0ec88ac9fef8521de18e661e38",
-      "/assets/demoicon.svg": "31f63ed6f0cb1d9f926b878c80b662bb80647c8c",
-      "/assets/autofix.svg": "b7a5566fadc67d568c4117df159e8e03360d0add",
       "/assets/addpaths.svg": "d959318526bd5ef384d9b4eb23a32fce97471b6d",
+      "/assets/autofix.svg": "b7a5566fadc67d568c4117df159e8e03360d0add",
+      "/assets/demoicon.svg": "31f63ed6f0cb1d9f926b878c80b662bb80647c8c",
       "/assets/pauseplay-white.png": "5ed13c9ed6311546e3613304774faa7e73fee8cc",
       "/assets/penaddcursorsmall.png": "8020d60b4c8dd263be90a5c5b13b9407a49b7547",
       "/assets/playpause-white.png": "258952f29f3f00ccf8feca2c63787b3ea38d91bb",
@@ -21,7 +21,7 @@
       "/assets/shapeshifter.svg": "09e98b8f6e829fb2f22760034fb0f62b4ce42d3c",
       "/manifest.json": "27d9deabc06b615978c246200db2cd71d5a59271",
       "/favicon.ico": "f4aad42c3b43d219090aeada1135a6a4cecd7e38",
-      "/index.html": "8b6147cc38ab2940e482c83f519428e27195402f"
+      "/index.html": "05e4097d5a93b4b8a446d99b5101fdfef67bea63"
     },
     "_generatedFromWebpack": true
   }
