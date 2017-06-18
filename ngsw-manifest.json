@@ -16,15 +16,15 @@
       "/assets/icons/clippathlayer.svg": "f392ec07a24b537385c0b32236d03b69fba2d70f",
       "/assets/icons/collection.svg": "14ff796843495307a9f4a33a6f8de53fff5835d5",
       "/assets/icons/contribute.svg": "b839e18ac8dd31632e153d7a3fc3e98191dedc88",
-      "/assets/icons/grouplayer.svg": "4b4137cf8781d15043a27f6363e456fd1b29bdca",
       "/assets/icons/pathlayer.svg": "4548b9e0896212c4ef0cae7d52122a24dbac0aea",
+      "/assets/icons/grouplayer.svg": "4b4137cf8781d15043a27f6363e456fd1b29bdca",
       "/assets/icons/pauseplay-white.png": "5ed13c9ed6311546e3613304774faa7e73fee8cc",
       "/assets/icons/playpause-white.png": "258952f29f3f00ccf8feca2c63787b3ea38d91bb",
       "/assets/icons/reverse.svg": "54cc7d9b3261c4fc7fed59b8c97b029fbbf8e69f",
       "/assets/icons/vectorlayer.svg": "9e387a67c2012f92889d71ec691439fbe0a792c3",
       "/assets/screencap.jpg": "1e749019fe9b88230c9edfb989b7716ac7c62a09",
-      "/assets/shapeshifter.svg": "09e98b8f6e829fb2f22760034fb0f62b4ce42d3c",
       "/assets/shapeshifter.png": "6cd25dfd1dbd8d91c41635451e37678de24adee8",
+      "/assets/shapeshifter.svg": "09e98b8f6e829fb2f22760034fb0f62b4ce42d3c",
       "/demos/heartbreak.shapeshifter": "409f0e0bd9555c01bdf9abf94b1e5ca72f9b99ca",
       "/demos/morphinganimals.shapeshifter": "7a1fed60ea64e6807c493bd2dfd43ba8d4323479",
       "/demos/playtopause.shapeshifter": "5fd09931f0a3eebcf6ad270e90a298ecaf491621",
@@ -32,7 +32,7 @@
       "/demos/visibilitystrike.shapeshifter": "ed98612fe93a7cba4f8706684d991aa652a3c095",
       "/manifest.json": "27d9deabc06b615978c246200db2cd71d5a59271",
       "/favicon.ico": "f4aad42c3b43d219090aeada1135a6a4cecd7e38",
-      "/index.html": "c631039c21f6ed4e33305f69365a1b5c6dc4cefa"
+      "/index.html": "8a6262f13eb57323d69d413d8693d349b37a3a90"
     },
     "_generatedFromWebpack": true
   }
