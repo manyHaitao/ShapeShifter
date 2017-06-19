@@ -1,11 +1,11 @@
 {
   "static": {
     "urls": {
-      "/main.5c242bc56ec4d53c113e.bundle.js": "9b4e5a1ef0653d39bcf7527f3f29ff1b575ec8a2",
+      "/main.68f029129724cb88e361.bundle.js": "f4659cbe840358f7c6af26aebbb3e9dcd87fbebb",
       "/polyfills.941f119dea8a6d6529f8.bundle.js": "cb14b3ca072d1b9911f33e7d4bacabbe64f52817",
       "/sw-register.198dfffd560b9a317950.bundle.js": "aea58122a2529e6bf62294b1c563cf673f74bfac",
       "/vendor.d62c677178de6bb28515.bundle.js": "06bdfb963b148dbc9436e91683a67b59375ac19f",
-      "/inline.3c629d48f5a70ef16985.bundle.js": "4df8d6795ad163ddb5788e182eb901657980597f",
+      "/inline.9fe1082dfe5d7198ade5.bundle.js": "51b1a21e588a4005fefa8cdc6577cb08bce0220a",
       "/styles.725975a62017f22e9f23.bundle.css": "6a145fe581eb32cf929cec046df11ff443836619",
       "/assets/cursor/penaddcursorsmall.png": "8020d60b4c8dd263be90a5c5b13b9407a49b7547",
       "/assets/cursor/selectioncursor.svg": "2e37d6e4181b8d517d31d4c99e3df7c00027c152",
@@ -19,20 +19,20 @@
       "/assets/icons/grouplayer.svg": "4b4137cf8781d15043a27f6363e456fd1b29bdca",
       "/assets/icons/pathlayer.svg": "4548b9e0896212c4ef0cae7d52122a24dbac0aea",
       "/assets/icons/pauseplay-white.png": "5ed13c9ed6311546e3613304774faa7e73fee8cc",
+      "/assets/icons/playpause-white.png": "258952f29f3f00ccf8feca2c63787b3ea38d91bb",
       "/assets/icons/reverse.svg": "54cc7d9b3261c4fc7fed59b8c97b029fbbf8e69f",
       "/assets/icons/vectorlayer.svg": "9e387a67c2012f92889d71ec691439fbe0a792c3",
-      "/assets/icons/playpause-white.png": "258952f29f3f00ccf8feca2c63787b3ea38d91bb",
       "/assets/screencap.jpg": "1e749019fe9b88230c9edfb989b7716ac7c62a09",
       "/assets/shapeshifter.png": "6cd25dfd1dbd8d91c41635451e37678de24adee8",
       "/assets/shapeshifter.svg": "09e98b8f6e829fb2f22760034fb0f62b4ce42d3c",
       "/demos/heartbreak.shapeshifter": "409f0e0bd9555c01bdf9abf94b1e5ca72f9b99ca",
       "/demos/morphinganimals.shapeshifter": "7a1fed60ea64e6807c493bd2dfd43ba8d4323479",
-      "/demos/searchtoclose.shapeshifter": "4c73531bc562f5a06c787f03ac872da25f5c8058",
       "/demos/playtopause.shapeshifter": "5fd09931f0a3eebcf6ad270e90a298ecaf491621",
+      "/demos/searchtoclose.shapeshifter": "4c73531bc562f5a06c787f03ac872da25f5c8058",
       "/demos/visibilitystrike.shapeshifter": "ed98612fe93a7cba4f8706684d991aa652a3c095",
       "/manifest.json": "27d9deabc06b615978c246200db2cd71d5a59271",
       "/favicon.ico": "f4aad42c3b43d219090aeada1135a6a4cecd7e38",
-      "/index.html": "83146645a545d96c4ca80f063fa376de605c82a7"
+      "/index.html": "a4991d8b3772ab7768d737eb119f86c80de5810c"
     },
     "_generatedFromWebpack": true
   }
