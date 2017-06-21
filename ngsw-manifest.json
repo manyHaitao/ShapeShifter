@@ -1,19 +1,19 @@
 {
   "static": {
     "urls": {
-      "/main.e3a38a0756059817c085.bundle.js": "20741ffdc11ea7dc25a79ea98b6d03e367850480",
+      "/main.c653da4908a8cca51a4c.bundle.js": "1c883800c0dfccb8f6ed378d47854dd7e003ad4a",
       "/polyfills.941f119dea8a6d6529f8.bundle.js": "cb14b3ca072d1b9911f33e7d4bacabbe64f52817",
       "/sw-register.198dfffd560b9a317950.bundle.js": "aea58122a2529e6bf62294b1c563cf673f74bfac",
-      "/vendor.d62c677178de6bb28515.bundle.js": "06bdfb963b148dbc9436e91683a67b59375ac19f",
-      "/inline.dd37a30919702be81b63.bundle.js": "d0166e8a36e8ab42d9beafcf27cbc3224c12ec68",
-      "/styles.725975a62017f22e9f23.bundle.css": "6a145fe581eb32cf929cec046df11ff443836619",
+      "/vendor.1c7a60434ad0133ee90f.bundle.js": "478539dc1d0554a3db3b5fec89004d8139216157",
+      "/inline.1758c1ef6952719ebca7.bundle.js": "8576e0f19f30873f009bbdd803845d1a7f5d7148",
+      "/styles.dea2871c23f71c6f2bf2.bundle.css": "709ec22e32839d6b5b0c86d1b3bf978ff17b8b76",
       "/assets/cursor/penaddcursorsmall.png": "8020d60b4c8dd263be90a5c5b13b9407a49b7547",
       "/assets/cursor/selectioncursor.svg": "2e37d6e4181b8d517d31d4c99e3df7c00027c152",
       "/assets/icons/addlayer.svg": "ec69feb836463240fb0bfe9d1287f247a20b0aab",
       "/assets/icons/animation.svg": "5514ad558162a2a3f4087c1ec7e9ad3a08a392d0",
       "/assets/icons/animationblock.svg": "b39fcc30f99a91423039d7d764ca1dbf75eafb57",
-      "/assets/icons/clippathlayer.svg": "f392ec07a24b537385c0b32236d03b69fba2d70f",
       "/assets/icons/autofix.svg": "b7a5566fadc67d568c4117df159e8e03360d0add",
+      "/assets/icons/clippathlayer.svg": "f392ec07a24b537385c0b32236d03b69fba2d70f",
       "/assets/icons/collection.svg": "14ff796843495307a9f4a33a6f8de53fff5835d5",
       "/assets/icons/contribute.svg": "b839e18ac8dd31632e153d7a3fc3e98191dedc88",
       "/assets/icons/grouplayer.svg": "4b4137cf8781d15043a27f6363e456fd1b29bdca",
@@ -32,7 +32,7 @@
       "/demos/visibilitystrike.shapeshifter": "ed98612fe93a7cba4f8706684d991aa652a3c095",
       "/manifest.json": "27d9deabc06b615978c246200db2cd71d5a59271",
       "/favicon.ico": "f4aad42c3b43d219090aeada1135a6a4cecd7e38",
-      "/index.html": "f2474c52d295fab4a8d4f5d175d4d754efc1b11c"
+      "/index.html": "92f26fd44e1fbd762523f4112de4344de1028456"
     },
     "_generatedFromWebpack": true
   }
