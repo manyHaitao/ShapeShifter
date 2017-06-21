@@ -1,19 +1,19 @@
 {
   "static": {
     "urls": {
-      "/main.41aad440098a32469b50.bundle.js": "df96ed382317cf510314c35d5f9f17eaeb30d361",
+      "/main.05e819e6ae3820a4a6c4.bundle.js": "49f2e6cdbf947bce7176922b7c2cf265f2f29e47",
       "/polyfills.941f119dea8a6d6529f8.bundle.js": "cb14b3ca072d1b9911f33e7d4bacabbe64f52817",
       "/sw-register.198dfffd560b9a317950.bundle.js": "aea58122a2529e6bf62294b1c563cf673f74bfac",
       "/vendor.e7ba4955b02bf6d265fe.bundle.js": "72864f892461babf0f4a21c384364c572e645246",
-      "/inline.b3fa9b2e55e5a7121a3c.bundle.js": "1c1823d7858a1476d7b47aa9cc008abfe6d6f121",
+      "/inline.6d268ea06a5998600eb0.bundle.js": "63cc694532ea5b5bce2fdae0762bb75a3462b8a8",
       "/styles.dea2871c23f71c6f2bf2.bundle.css": "709ec22e32839d6b5b0c86d1b3bf978ff17b8b76",
       "/assets/cursor/penaddcursorsmall.png": "8020d60b4c8dd263be90a5c5b13b9407a49b7547",
       "/assets/cursor/selectioncursor.svg": "2e37d6e4181b8d517d31d4c99e3df7c00027c152",
       "/assets/icons/addlayer.svg": "ec69feb836463240fb0bfe9d1287f247a20b0aab",
       "/assets/icons/animation.svg": "5514ad558162a2a3f4087c1ec7e9ad3a08a392d0",
       "/assets/icons/animationblock.svg": "b39fcc30f99a91423039d7d764ca1dbf75eafb57",
-      "/assets/icons/autofix.svg": "b7a5566fadc67d568c4117df159e8e03360d0add",
       "/assets/icons/clippathlayer.svg": "f392ec07a24b537385c0b32236d03b69fba2d70f",
+      "/assets/icons/autofix.svg": "b7a5566fadc67d568c4117df159e8e03360d0add",
       "/assets/icons/collection.svg": "14ff796843495307a9f4a33a6f8de53fff5835d5",
       "/assets/icons/contribute.svg": "b839e18ac8dd31632e153d7a3fc3e98191dedc88",
       "/assets/icons/grouplayer.svg": "4b4137cf8781d15043a27f6363e456fd1b29bdca",
@@ -32,7 +32,7 @@
       "/demos/visibilitystrike.shapeshifter": "ed98612fe93a7cba4f8706684d991aa652a3c095",
       "/manifest.json": "27d9deabc06b615978c246200db2cd71d5a59271",
       "/favicon.ico": "f4aad42c3b43d219090aeada1135a6a4cecd7e38",
-      "/index.html": "371c0cc31819afdc6a2f550691fe09545af089d6"
+      "/index.html": "797e7faa7ed026f86e1dd5bfab2dc0cdcb1bf66f"
     },
     "_generatedFromWebpack": true
   }
