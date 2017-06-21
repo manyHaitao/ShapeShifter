@@ -1,11 +1,11 @@
 {
   "static": {
     "urls": {
-      "/main.c653da4908a8cca51a4c.bundle.js": "1c883800c0dfccb8f6ed378d47854dd7e003ad4a",
+      "/main.5be096e2e754bad0a70c.bundle.js": "8425ea744d6dbe6fc6ca8e42c00e1592a9ca08ba",
       "/polyfills.941f119dea8a6d6529f8.bundle.js": "cb14b3ca072d1b9911f33e7d4bacabbe64f52817",
       "/sw-register.198dfffd560b9a317950.bundle.js": "aea58122a2529e6bf62294b1c563cf673f74bfac",
       "/vendor.1c7a60434ad0133ee90f.bundle.js": "478539dc1d0554a3db3b5fec89004d8139216157",
-      "/inline.1758c1ef6952719ebca7.bundle.js": "8576e0f19f30873f009bbdd803845d1a7f5d7148",
+      "/inline.f291a9f902bdb1fd3905.bundle.js": "3bd44692d7ecf11bccf46823b399c1648d4dd122",
       "/styles.dea2871c23f71c6f2bf2.bundle.css": "709ec22e32839d6b5b0c86d1b3bf978ff17b8b76",
       "/assets/cursor/penaddcursorsmall.png": "8020d60b4c8dd263be90a5c5b13b9407a49b7547",
       "/assets/cursor/selectioncursor.svg": "2e37d6e4181b8d517d31d4c99e3df7c00027c152",
@@ -32,7 +32,7 @@
       "/demos/visibilitystrike.shapeshifter": "ed98612fe93a7cba4f8706684d991aa652a3c095",
       "/manifest.json": "27d9deabc06b615978c246200db2cd71d5a59271",
       "/favicon.ico": "f4aad42c3b43d219090aeada1135a6a4cecd7e38",
-      "/index.html": "92f26fd44e1fbd762523f4112de4344de1028456"
+      "/index.html": "90d0dfe5c425ff1c911fedecd2715a13d1265ecd"
     },
     "_generatedFromWebpack": true
   }
