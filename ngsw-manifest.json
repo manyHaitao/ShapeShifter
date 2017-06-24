@@ -1,11 +1,11 @@
 {
   "static": {
     "urls": {
-      "/main.d9bda3c8d6c6e126d60d.bundle.js": "2e8e78b47b4dcb7ef03fbffdcef5ad463ef9351d",
+      "/main.105d75b6f3e60034d27f.bundle.js": "e40151439a641dd1dc3c84214acefb1a5576bd7f",
       "/polyfills.941f119dea8a6d6529f8.bundle.js": "cb14b3ca072d1b9911f33e7d4bacabbe64f52817",
       "/sw-register.198dfffd560b9a317950.bundle.js": "aea58122a2529e6bf62294b1c563cf673f74bfac",
-      "/vendor.bd065ab62a77e0613802.bundle.js": "358b5c907703325bbb6e53e9b41de6abdf071e94",
-      "/inline.60b217df18a9bf95a91b.bundle.js": "dea236b0dc340ae0301b63d6a7d44d9c5c34f1f4",
+      "/vendor.af507285bdc0dcaf8975.bundle.js": "21597cb9df686c3b787813ce137b557a566bec32",
+      "/inline.4497d1b283cfce90f32b.bundle.js": "deb8dfca970ff8fc6bb089756d122359ef0792e7",
       "/styles.dea2871c23f71c6f2bf2.bundle.css": "709ec22e32839d6b5b0c86d1b3bf978ff17b8b76",
       "/assets/cursor/penaddcursorsmall.png": "8020d60b4c8dd263be90a5c5b13b9407a49b7547",
       "/assets/cursor/selectioncursor.svg": "2e37d6e4181b8d517d31d4c99e3df7c00027c152",
@@ -30,9 +30,9 @@
       "/demos/playtopause.shapeshifter": "5fd09931f0a3eebcf6ad270e90a298ecaf491621",
       "/demos/searchtoclose.shapeshifter": "4c73531bc562f5a06c787f03ac872da25f5c8058",
       "/demos/visibilitystrike.shapeshifter": "ed98612fe93a7cba4f8706684d991aa652a3c095",
-      "/favicon.ico": "f4aad42c3b43d219090aeada1135a6a4cecd7e38",
       "/manifest.json": "27d9deabc06b615978c246200db2cd71d5a59271",
-      "/index.html": "68d7e0f462259ade5f32814bd29d416429ddfca1"
+      "/favicon.ico": "f4aad42c3b43d219090aeada1135a6a4cecd7e38",
+      "/index.html": "4e4d1cebe1864361c102f3a4e77fb90b77c9f40c"
     },
     "_generatedFromWebpack": true
   }
