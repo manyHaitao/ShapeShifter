@@ -30,8 +30,8 @@
       "/demos/playtopause.shapeshifter": "5fd09931f0a3eebcf6ad270e90a298ecaf491621",
       "/demos/searchtoclose.shapeshifter": "4c73531bc562f5a06c787f03ac872da25f5c8058",
       "/demos/visibilitystrike.shapeshifter": "ed98612fe93a7cba4f8706684d991aa652a3c095",
-      "/manifest.json": "27d9deabc06b615978c246200db2cd71d5a59271",
       "/favicon.ico": "f4aad42c3b43d219090aeada1135a6a4cecd7e38",
+      "/manifest.json": "27d9deabc06b615978c246200db2cd71d5a59271",
       "/index.html": "4e4d1cebe1864361c102f3a4e77fb90b77c9f40c"
     },
     "_generatedFromWebpack": true
