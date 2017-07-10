@@ -1,20 +1,20 @@
 {
   "static": {
     "urls": {
-      "/main.11a3dc2afc26d70299d9.bundle.js": "2f8248445240e735efac815dc983ad7e2a6898fe",
+      "/main.939261d84786b3cee391.bundle.js": "378d8e58621ed8a89fd0a790e5ac397f1b6d3742",
       "/polyfills.941f119dea8a6d6529f8.bundle.js": "b8d8c312a9d19fe045d17708b43100dd9a10e6cb",
       "/sw-register.198dfffd560b9a317950.bundle.js": "aea58122a2529e6bf62294b1c563cf673f74bfac",
       "/vendor.af97e34ef7ea90a732b8.bundle.js": "0d85689ff1de9078b430103e0bbbdf21dd0f7b71",
-      "/inline.283c5ec8e11e2745dfa6.bundle.js": "7ef6b6ed9f28457fc7b9d644046522ba7d643359",
+      "/inline.a2a1d3950e421d292653.bundle.js": "276ab71c99c8f71363699391793eb20966ceadcf",
       "/styles.62c13c362f0abcb3c888.bundle.css": "fc0838ce0fc22d91a7d513f028e1226fbdfb4901",
       "/assets/cursor/penaddcursorsmall.png": "8020d60b4c8dd263be90a5c5b13b9407a49b7547",
       "/assets/cursor/selectioncursor.svg": "2e37d6e4181b8d517d31d4c99e3df7c00027c152",
       "/assets/icons/addlayer.svg": "ec69feb836463240fb0bfe9d1287f247a20b0aab",
-      "/assets/icons/animationblock.svg": "b39fcc30f99a91423039d7d764ca1dbf75eafb57",
       "/assets/icons/animation.svg": "5514ad558162a2a3f4087c1ec7e9ad3a08a392d0",
+      "/assets/icons/animationblock.svg": "b39fcc30f99a91423039d7d764ca1dbf75eafb57",
+      "/assets/icons/collection.svg": "14ff796843495307a9f4a33a6f8de53fff5835d5",
       "/assets/icons/autofix.svg": "b7a5566fadc67d568c4117df159e8e03360d0add",
       "/assets/icons/clippathlayer.svg": "f392ec07a24b537385c0b32236d03b69fba2d70f",
-      "/assets/icons/collection.svg": "14ff796843495307a9f4a33a6f8de53fff5835d5",
       "/assets/icons/contribute.svg": "b839e18ac8dd31632e153d7a3fc3e98191dedc88",
       "/assets/icons/grouplayer.svg": "4b4137cf8781d15043a27f6363e456fd1b29bdca",
       "/assets/icons/pathlayer.svg": "4548b9e0896212c4ef0cae7d52122a24dbac0aea",
@@ -24,15 +24,15 @@
       "/assets/icons/vectorlayer.svg": "9e387a67c2012f92889d71ec691439fbe0a792c3",
       "/assets/screencap.jpg": "1e749019fe9b88230c9edfb989b7716ac7c62a09",
       "/assets/shapeshifter.png": "6cd25dfd1dbd8d91c41635451e37678de24adee8",
-      "/assets/shapeshifter.svg": "09e98b8f6e829fb2f22760034fb0f62b4ce42d3c",
       "/demos/heartbreak.shapeshifter": "409f0e0bd9555c01bdf9abf94b1e5ca72f9b99ca",
+      "/assets/shapeshifter.svg": "09e98b8f6e829fb2f22760034fb0f62b4ce42d3c",
       "/demos/morphinganimals.shapeshifter": "7a1fed60ea64e6807c493bd2dfd43ba8d4323479",
       "/demos/playtopause.shapeshifter": "5fd09931f0a3eebcf6ad270e90a298ecaf491621",
       "/demos/searchtoclose.shapeshifter": "4c73531bc562f5a06c787f03ac872da25f5c8058",
       "/demos/visibilitystrike.shapeshifter": "ed98612fe93a7cba4f8706684d991aa652a3c095",
       "/manifest.json": "27d9deabc06b615978c246200db2cd71d5a59271",
       "/favicon.ico": "f4aad42c3b43d219090aeada1135a6a4cecd7e38",
-      "/index.html": "592f9217c0010e4b303d55775196e19739b96618"
+      "/index.html": "6881f7c7eae9519d524b065b3cf959f5288b272c"
     },
     "_generatedFromWebpack": true
   }
