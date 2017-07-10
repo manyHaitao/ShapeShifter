@@ -1,17 +1,17 @@
 {
   "static": {
     "urls": {
-      "/main.c89d9aa515d6c75ba175.bundle.js": "5bc573fc1c43899aa268a2fb5e7d3f037e7d1ecc",
+      "/main.11a3dc2afc26d70299d9.bundle.js": "2f8248445240e735efac815dc983ad7e2a6898fe",
       "/polyfills.941f119dea8a6d6529f8.bundle.js": "b8d8c312a9d19fe045d17708b43100dd9a10e6cb",
       "/sw-register.198dfffd560b9a317950.bundle.js": "aea58122a2529e6bf62294b1c563cf673f74bfac",
-      "/vendor.c094d0d3192b2685abab.bundle.js": "2ef85a66fdf1ece99c35cea96905c12526632517",
-      "/inline.93fa0526e12ddc78517c.bundle.js": "f1de144be93f8668035d31455926dacf09ee1b9b",
+      "/vendor.af97e34ef7ea90a732b8.bundle.js": "0d85689ff1de9078b430103e0bbbdf21dd0f7b71",
+      "/inline.283c5ec8e11e2745dfa6.bundle.js": "7ef6b6ed9f28457fc7b9d644046522ba7d643359",
       "/styles.62c13c362f0abcb3c888.bundle.css": "fc0838ce0fc22d91a7d513f028e1226fbdfb4901",
       "/assets/cursor/penaddcursorsmall.png": "8020d60b4c8dd263be90a5c5b13b9407a49b7547",
       "/assets/cursor/selectioncursor.svg": "2e37d6e4181b8d517d31d4c99e3df7c00027c152",
       "/assets/icons/addlayer.svg": "ec69feb836463240fb0bfe9d1287f247a20b0aab",
-      "/assets/icons/animation.svg": "5514ad558162a2a3f4087c1ec7e9ad3a08a392d0",
       "/assets/icons/animationblock.svg": "b39fcc30f99a91423039d7d764ca1dbf75eafb57",
+      "/assets/icons/animation.svg": "5514ad558162a2a3f4087c1ec7e9ad3a08a392d0",
       "/assets/icons/autofix.svg": "b7a5566fadc67d568c4117df159e8e03360d0add",
       "/assets/icons/clippathlayer.svg": "f392ec07a24b537385c0b32236d03b69fba2d70f",
       "/assets/icons/collection.svg": "14ff796843495307a9f4a33a6f8de53fff5835d5",
@@ -32,7 +32,7 @@
       "/demos/visibilitystrike.shapeshifter": "ed98612fe93a7cba4f8706684d991aa652a3c095",
       "/manifest.json": "27d9deabc06b615978c246200db2cd71d5a59271",
       "/favicon.ico": "f4aad42c3b43d219090aeada1135a6a4cecd7e38",
-      "/index.html": "f0154b2576bf351d7a4e3118133f4905fb49a492"
+      "/index.html": "592f9217c0010e4b303d55775196e19739b96618"
     },
     "_generatedFromWebpack": true
   }
