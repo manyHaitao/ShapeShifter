@@ -2,21 +2,21 @@
   "static": {
     "urls": {
       "/polyfills.4d7e3f3953517ffefba3.bundle.js": "92714006c10f86c9ddb543e49167531fb5ebcfd5",
-      "/main.58569a3ca96eabc6ae5b.bundle.js": "e5aaf92af5e522d4f58d704247adf78180d2ce6a",
+      "/main.281f18d6fa9f96d1d0a4.bundle.js": "0ef5777b88a395ce878cc86f580928bc74b6ec83",
       "/sw-register.fea8019a86e368e4882f.bundle.js": "7dd8e03d9aecd3fc5e5dd134e771ea7c39b67123",
       "/vendor.d71d2276e9833a29c0a3.bundle.js": "e5a6a375074e56788b58029de448447098424a64",
-      "/inline.1acb836b73ce070694e9.bundle.js": "50344b788cbf8e7e652ad59a68efd06fe1913de3",
+      "/inline.973f6f5ddf0704e6ecf4.bundle.js": "a2c3ed8acb8a78d3d6dd48c6b9e974c1c7f7122d",
       "/styles.4c2f56d7d115ef9c743b.bundle.css": "0f85c9f97ae5f86151b3535fe1318624c3fac7c1",
-      "/assets/.DS_Store": "afa76326a10af4b9db728b98993d0cfa7017da3c",
       "/assets/cursor/.DS_Store": "df2fbeb1400acda0909a32c1cf6bf492f1121e07",
       "/assets/cursor/penaddcursorsmall.png": "8020d60b4c8dd263be90a5c5b13b9407a49b7547",
       "/assets/cursor/selectioncursor.svg": "2e37d6e4181b8d517d31d4c99e3df7c00027c152",
+      "/assets/.DS_Store": "afa76326a10af4b9db728b98993d0cfa7017da3c",
       "/assets/icons/addlayer.svg": "ec69feb836463240fb0bfe9d1287f247a20b0aab",
       "/assets/icons/animation.svg": "5514ad558162a2a3f4087c1ec7e9ad3a08a392d0",
       "/assets/icons/animationblock.svg": "b39fcc30f99a91423039d7d764ca1dbf75eafb57",
       "/assets/icons/autofix.svg": "b7a5566fadc67d568c4117df159e8e03360d0add",
-      "/assets/icons/clippathlayer.svg": "f392ec07a24b537385c0b32236d03b69fba2d70f",
       "/assets/icons/collection.svg": "14ff796843495307a9f4a33a6f8de53fff5835d5",
+      "/assets/icons/clippathlayer.svg": "f392ec07a24b537385c0b32236d03b69fba2d70f",
       "/assets/icons/contribute.svg": "b839e18ac8dd31632e153d7a3fc3e98191dedc88",
       "/assets/icons/grouplayer.svg": "4b4137cf8781d15043a27f6363e456fd1b29bdca",
       "/assets/icons/pathlayer.svg": "4548b9e0896212c4ef0cae7d52122a24dbac0aea",
@@ -28,13 +28,13 @@
       "/assets/shapeshifter.svg": "09e98b8f6e829fb2f22760034fb0f62b4ce42d3c",
       "/assets/screencap.jpg": "1e749019fe9b88230c9edfb989b7716ac7c62a09",
       "/demos/heartbreak.shapeshifter": "409f0e0bd9555c01bdf9abf94b1e5ca72f9b99ca",
-      "/demos/playtopause.shapeshifter": "647bcd942a0827063d6071c729ac83225bc76ecf",
       "/demos/morphinganimals.shapeshifter": "7a1fed60ea64e6807c493bd2dfd43ba8d4323479",
       "/demos/searchtoclose.shapeshifter": "4c73531bc562f5a06c787f03ac872da25f5c8058",
+      "/demos/playtopause.shapeshifter": "647bcd942a0827063d6071c729ac83225bc76ecf",
       "/demos/visibilitystrike.shapeshifter": "ed98612fe93a7cba4f8706684d991aa652a3c095",
       "/manifest.json": "27d9deabc06b615978c246200db2cd71d5a59271",
       "/favicon.ico": "f4aad42c3b43d219090aeada1135a6a4cecd7e38",
-      "/index.html": "e2916ead75de1c3475a85e88e4b88b51c7e7b74e"
+      "/index.html": "527d2a7a1e94bfdf0703a020f406885e2372377b"
     },
     "_generatedFromWebpack": true
   }
