@@ -10,7 +10,7 @@
         "/favicon.ico",
         "/index.html",
         "/inline.318b50c57b4eba3d437b.bundle.js",
-        "/main.4d5fe353a52977e4566b.bundle.js",
+        "/main.6ac3ecba126aca8ec2a5.bundle.js",
         "/polyfills.7fb91167ee32ef48df23.bundle.js",
         "/styles.2242b7c63f1805b870e1.bundle.css"
       ],
@@ -46,7 +46,7 @@
   "hashTable": {
     "/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
     "/assets/screencap.jpg": "1e749019fe9b88230c9edfb989b7716ac7c62a09",
-    "/main.4d5fe353a52977e4566b.bundle.js": "83c5818095f20231286d0e5facd31484845891a8",
+    "/main.6ac3ecba126aca8ec2a5.bundle.js": "1ff044f91493ab35951c4ed38a8113cb9f6a6a5e",
     "/assets/shapeshifter.png": "6cd25dfd1dbd8d91c41635451e37678de24adee8",
     "/polyfills.7fb91167ee32ef48df23.bundle.js": "e0e4911b92063ec0626bd69bd380c2240bbc4350",
     "/assets/shapeshifter.svg": "09e98b8f6e829fb2f22760034fb0f62b4ce42d3c",
@@ -54,7 +54,7 @@
     "/assets/cursor/penaddcursorsmall.png": "8020d60b4c8dd263be90a5c5b13b9407a49b7547",
     "/favicon.ico": "f4aad42c3b43d219090aeada1135a6a4cecd7e38",
     "/assets/icons/addlayer.svg": "ec69feb836463240fb0bfe9d1287f247a20b0aab",
-    "/index.html": "d7d0765ebd2e7dd8fef40c3d231842e267464db7",
+    "/index.html": "76cacb9fa0b711c9ce2509a4f0fe281bc237bf78",
     "/assets/icons/animation.svg": "5514ad558162a2a3f4087c1ec7e9ad3a08a392d0",
     "/assets/icons/animationblock.svg": "b39fcc30f99a91423039d7d764ca1dbf75eafb57",
     "/assets/icons/autofix.svg": "b7a5566fadc67d568c4117df159e8e03360d0add",
